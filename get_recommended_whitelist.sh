@@ -13,6 +13,7 @@ urls=(
     https://raw.githubusercontent.com/TogoFire-Home/AD-Settings/main/Filters/whitelist.txt
     https://raw.githubusercontent.com/freekers/whitelist/master/domains/whitelist.txt
     https://raw.githubusercontent.com/DandelionSprout/AdGuard-Home-Whitelist/master/whitelist.txt
+    https://raw.githubusercontent.com/nextdns/click-tracking-domains/main/domains
     # Commented out because it looks suspicious
     # https://www.aadvantageeshopping.com/adBlockWhitelist.php
     https://raw.githubusercontent.com/AdguardTeam/AdGuardSDNSFilter/master/Filters/exclusions.txt
